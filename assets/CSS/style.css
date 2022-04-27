@@ -1,0 +1,41 @@
+body{
+   color: #fff;
+   background-color: black;
+}
+
+.p{
+    padding-top: 2%;
+}
+
+.p1{
+    padding-top: 1%;
+}
+
+.aqua{
+    background-color: aqua;
+    
+}
+
+.container{
+
+   padding: 0;
+}
+
+.carousel {
+    position:relative;
+    top:0;    
+}
+.navbar {
+   position: fixed;
+    top: 10px;
+    z-index:10;
+  
+}
+.card-img-top {
+  
+    height: 200px;
+    object-fit: cover;
+}
+.nav-item{
+    text-align: right;
+}
