@@ -1,4 +1,4 @@
-$(function(){
+$().ready(function(){
 
     $("#correo").tooltip({     
       title:"Al hacer click en el boton se enviara el correo"
